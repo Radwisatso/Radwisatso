@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences 👉 [My CV](https://bit.ly/474aXb4)
 
-- ⚡ Fun fact **I am married to a beautiful wife and have 1 child 👱🏻‍♀️👶🏻**
+- ⚡ Fun fact 👉 **I am married to a beautiful wife and have 1 child 👱🏻‍♀️👶🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
