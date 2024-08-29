@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/)
 
-- 🌱 I’m currently learning **Docker**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raditya-dwisatrio-santoso/](https://www.linkedin.com/in/raditya-dwisatrio-santoso/)
+- 🌱 I’m currently learning **Docker** 🐳
 
 - 💬 Ask me about **Javascript, Typescript, React, Postgresql, etc**
 
-- 📫 How to reach me **https://www.linkedin.com/in/raditya-dwisatrio-santoso/**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raditya-dwisatrio-santoso/)
 
-- 📄 Know about my experiences [https://bit.ly/474aXb4](https://bit.ly/474aXb4)
+- 📄 Know about my experiences 👉 [My CV](https://bit.ly/474aXb4)
 
 - ⚡ Fun fact **I am married to a beautiful wife and have 1 child 👱🏻‍♀️👶🏻**
 
