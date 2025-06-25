@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/)
 
-- 🌱 I’m currently learning **Docker** 🐳
+- 🌱 I’m currently learning **AWS Cloud Practicioner** 🐳
 
 - 💬 Ask me about **Javascript, Typescript, React, Postgresql, etc**
 
