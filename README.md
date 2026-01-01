@@ -1,15 +1,13 @@
 <h1 align="center">Hello folks! 🤖, I'm Raditya Dwisatrio Santoso</h1>
 <h3 align="center">A Fullstack Developer and a mentor 👨‍🏫</h3>
 
-- 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/)
+- 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/) and currently open for a new opportunity!
 
-- 🌱 I’m currently learning **AWS Cloud Practicioner** 🐳
+- 🌱 I’m currently learning **AWS Cloud Practicioner** ☁️
 
 - 💬 Ask me about **Javascript, Typescript, React, Postgresql, etc**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raditya-dwisatrio-santoso/)
-
-- 📄 Know about my experiences 👉 [My CV](https://bit.ly/474aXb4)
 
 - ⚡ Fun fact 👉 **I am married to a beautiful wife and have 1 child 👱🏻‍♀️👶🏻**
 
