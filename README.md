@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks! 🤖, I'm Raditya Dwisatrio Santoso</h1>
-<h3 align="center">A Fullstack Developer and a mentor 👨‍🏫</h3>
+<h3 align="center">A Fullstack Developer and a Technical Trainer 👨‍🏫</h3>
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/) and currently open for a new opportunity!
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **Javascript, Typescript, React, Postgresql, etc**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raditya-dwisatrio-santoso/)
-
-- ⚡ Fun fact 👉 **I am married to a beautiful wife and have 1 child 👱🏻‍♀️👶🏻**
 
 - 🎯 My next goal: **Working Abroad✈️**
 
