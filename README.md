@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks! 🤖, I'm Raditya Dwisatrio Santoso</h1>
+<h1 align="center">Hi Everyone! 🤖, I'm Raditya Dwisatrio Santoso</h1>
 <h3 align="center">A Fullstack Developer and a Technical Trainer 👨‍🏫</h3>
 
 - 🔭 I’m currently working on [Hacktiv8](https://www.hacktiv8.com/) and currently open for a new opportunity!
